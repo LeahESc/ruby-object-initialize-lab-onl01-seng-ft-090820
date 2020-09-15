@@ -6,7 +6,7 @@ class Dog
   def initialize(name, breed)
     @name = name
     @breed = breed
-    if Dog = @name, @breed 
+    if self = @name, @breed 
       puts "#{name}, #{breed}"
     else 
       puts "#{name}, Mutt"

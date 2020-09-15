@@ -6,8 +6,8 @@ class Dog
   def initialize(name, breed)
     @name = name
     @breed = breed
-    # if  
-    #   puts "#{name}, Mutt"
+      if  breed == " "
+      #   puts "#{name}, Mutt"
     # end
   end
 end

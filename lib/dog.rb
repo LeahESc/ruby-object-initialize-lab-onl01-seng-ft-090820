@@ -10,6 +10,7 @@ class Dog
       puts "#{breed}"
     else 
       puts "Mutt"
+    end
   end
 end
 # binding.pry 

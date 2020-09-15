@@ -7,8 +7,8 @@ class Dog
     @name = name
     @breed = breed
       if  breed == " "
-      #   puts "#{name}, Mutt"
-    # end
+      @breed = "Mutt" 
+    end
   end
 end
 # binding.pry 

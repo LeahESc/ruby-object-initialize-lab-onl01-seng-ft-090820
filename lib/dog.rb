@@ -6,9 +6,9 @@ class Dog
   def initialize(name, breed)
     @name = name
     @breed = breed
-    if @breed = () 
-      puts "#{name}, Mutt"
-    end
+    # if  
+    #   puts "#{name}, Mutt"
+    # end
   end
 end
 # binding.pry 
